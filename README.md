@@ -8,21 +8,17 @@ This is my attempt to learn about the fundaments of cosmological and dark energy
 
 
 ## Repository Structure
-1. `code/`
+1. `code/brane_theory`: comparing LCDM scale factor and distances evolutions with brane theory altered friedmann equations
+2. `code/LCDM`: inspired from [gcanasherrera/calculadoracosmologica](https://github.com/gcanasherrera/calculadoracosmologica), I decoded her project from C/C++ to Python as a coding exercise.
+3. `code/simulations`: evolution of the hubble parameter tinkering with the friedman equation and other parameters using astropy
 
 ## Data
 
 ## License
 This repository is under the MIT License, which, put in a few words, it enables everyone to use this code and other content freely always providing credit back to this repository. Read the full [license](LICENSE.md) to get the details.
 
-# Cosmology
-Repository for the [GRB Cosmology Research Initiatve](https://capibara3.github.io/research/grb_cosmology.html) within the [CAPIBARA](https://github.com/capibara3) Collaboration. This repository contains code for general cosmology status review and for specifically GRB-related distance measurements. The repository is divided into the following sub-directories:
 
-1. `lit-review`: code for plotting of main cosmological parameters (e.g. $H_0$, $\Omega_m$, $\Omega_{DE}$) from literature data $\implies$ Hubble Tension :).
-2. `gw`: computing characteristics of GRB gravitational wave (GW) counterpart detections.
-3. `friedmann`: my Python version of [gcanasherrera/calculadoracosmologica](https://github.com/gcanasherrera/calculadoracosmologica), computing different cosmological distances and times using the friedmann eqs.
-3. `simulations`: code from previous project, cosmological simulatiosn using `astropy` methods.
+---
 
-
-
-You can check the research initiative description in the [project's website](https://capibara3.github.io/research/GRB_cosmology.html). You'll find a contact also there, feel free to reach out!
+* `lit-review`: code for plotting of main cosmological parameters (e.g. $H_0$, $\Omega_m$, $\Omega_{DE}$) from literature data $\implies$ Hubble Tension :).
+* `simulations`: code from previous project, cosmological simulatiosn using `astropy` methods.
