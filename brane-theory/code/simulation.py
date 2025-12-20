@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.integrate import cumulative_trapezoid
+
 # Constants
 c_km_s = 299792.458  # speed of light in km/s
 H0 = 70.0  # Hubble parameter in km/s/Mpc
