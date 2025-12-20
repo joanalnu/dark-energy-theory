@@ -10,11 +10,11 @@ In this directory you can find:
 
 The first Friedmann equation is:
 
-$$\frac{\dot{a}}{a} = \frac{8\pi G}{3} \rho - \frac{k}{a^2} + \frac{\Lambda}{3}$$.
+$$\frac{\dot{a}}{a} = \frac{8\pi G}{3} \rho - \frac{k}{a^2} + \frac{\Lambda}{3}.$$
 
 For the brane world cosmology, we multiply a new term to the energy density resulting in
 
-$$ \frac{\dot{a}}{a} = \frac{8 \pi G}{3} \rho \text{TERMS}$$
+$$ \frac{\dot{a}}{a} = \frac{8 \pi G}{3} \rho \cdot \text{TERMS}$$
 
 
 ### Disclaimer
