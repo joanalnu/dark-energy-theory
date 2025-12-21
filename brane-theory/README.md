@@ -5,6 +5,7 @@ The goal of this repository was to naively learn something about brane theory. P
 In this directory you can find:
 1. `distances.py`: compares the redshift evolution of distances (proper, luminosity and angular) between standard $\Lambda$CDM model and brane theory (assuming standard values for brane-theory-specific parameters).
 2. `simulation.py`: computes the friedmann equations for the brane theory scenario plotting the energy density term and the Hubble parameter both in function of redshift for a range of brane-theory-specific parameters.
+3. `models_comparison.py`: creates a plot comparing the redshift evolution of the Hubble parameter between $\Lambda$-CDM, w0waCDM and RSII cosmologies. Additionally, it contains a class for each cosmology with useful functions exportable to other scripts.
 
 ### brane-theory-specific parameters
 
